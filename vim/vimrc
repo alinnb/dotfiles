@@ -13,7 +13,6 @@ set background=dark
 set nocompatible
 set nobackup
 set confirm
-syntax 
 set number
 set cindent
 set backspace=indent,eol,start
